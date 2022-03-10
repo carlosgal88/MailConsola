@@ -44,8 +44,8 @@ namespace MailConsola
 
 		static void DatosEnvio(string receptor, string Asunto, string Body, out string remitente, out string contra, out MailMessage correo)
 		{
-			remitente = "sorportep@gmail.com";
-			contra = "Integra.01";
+			remitente = "CORREO";
+			contra = "CONTRASEÑA";
 			string textoRemitente = "TESTMAIL";
 
 			correo = new MailMessage();
