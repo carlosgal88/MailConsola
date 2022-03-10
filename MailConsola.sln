@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailConsola", "MailConsola\MailConsola.csproj", "{6785DA90-4660-408E-BE3B-D065667BA089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6785DA90-4660-408E-BE3B-D065667BA089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6785DA90-4660-408E-BE3B-D065667BA089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6785DA90-4660-408E-BE3B-D065667BA089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6785DA90-4660-408E-BE3B-D065667BA089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCED5DD7-81AB-4521-809B-C03613401C19}
+	EndGlobalSection
+EndGlobal
